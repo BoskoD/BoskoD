@@ -1,6 +1,6 @@
 <h1 align="center" style="display:none;"></h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/BoskoD/BoskoD/blob/main/BD.png" />
 
 ### I'm Boško Danilović, a Software Engineer from Belgrade, Serbia.
 
@@ -20,7 +20,6 @@
 ---
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boskod" alt="boskod" /></a> </p>
 
 
 
