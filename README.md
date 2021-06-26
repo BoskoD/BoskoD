@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://github.com/BoskoD/BoskoD/blob/main/BD.png" />
 
-### I'm Boško Danilović, a Software Engineer from Belgrade. 🇷🇸
+### I'm Boško Danilović, a Software Dev Engineer from Belgrade. 🇷🇸
 
 - 👨‍💻 Currently working on web development technologies .NET Core, Angular, TS, PS, Azure, etc.
 - 🚧 Current topic I am practicing: [Microservices to Nanoservices Architecture](https://github.com/BoskoD/AspNetMicroservices)  
