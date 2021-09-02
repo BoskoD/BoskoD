@@ -28,7 +28,7 @@
 *	Frontend:	       JavaScript, TypeScript, Blazor, React, Angular, Vue, JQuery, CSS3, HTML5 
 *	Methodologies:	 Agile, Scrum, TDD, Continuous Integration, Design patterns, Object-oriented programming, Unit testing
 *	Version Control: Git, TFS(Azure DevOps)
-*	Cloud computing: Digital Ocean, Azure, AWS
+*	Cloud computing: Azure, AWS
 *	Orchestration:   Docker, Service Fabric
 *	Platforms:	     Windows, Ubuntu, macOS
 *	Tools:           Visual Studio, SQL Server, Visual Studio Code, GitHub, MSOffice365 Suite, PowerBI, Powershell, Photoshop.
