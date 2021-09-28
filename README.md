@@ -4,7 +4,7 @@
 
 ### I'm Boško Danilović, a Software Dev Engineer from Belgrade. 🇷🇸
 
-- 👨‍💻 Currently working on web development technologies .NET Core, Angular, TS, PS, Azure, etc.
+- 👨‍💻 Currently working on web development technologies .NET Core, Angular, TS, PS, Azure
 - 🚧 Current topic I am practicing: [Microservices to Nanoservices Architecture](https://github.com/BoskoD/AspNetMicroservices)  
 - 📚 Learning everything about Frontend, Backend, Deployment, Cloud.
 
