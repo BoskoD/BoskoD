@@ -27,7 +27,7 @@
 *	Backend:	       ASP NET MVC 3.1, 5, 6 ASP NET CORE, WPF
 *	Frontend:	       JavaScript, TypeScript, Blazor, Angular, Vue, JQuery, CSS3, HTML5 
 *	Methodologies:	 Agile, Scrum, TDD, Continuous Integration, Design patterns, Object-oriented programming, Unit testing
-*	Version Control: Git, TFS(Azure DevOps)
+*	Version Control: Git, TFS, ADO
 *	Cloud computing: Azure, AWS
 *	Orchestration:   Docker, Service Fabric
 *	Platforms:	     Windows, Ubuntu, macOS
