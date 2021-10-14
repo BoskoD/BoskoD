@@ -23,10 +23,10 @@
 
 ### Profile Summary
 *	Languages:	     C#, Python, TypeScript, JavaScript
-*	DBMS:	           MSSQL, MongoDB, MariaDB, Redis, Postgresql, CosmosDB
+*	DBMS:	           MSSQL, MongoDB, Redis, Postgresql, CosmosDB
 *	Backend:	       ASP NET MVC 3.1, 5, 6 ASP NET CORE, WPF
-*	Frontend:	       JavaScript, TypeScript, Blazor, Angular, Vue, JQuery, CSS3, HTML5 
-*	Methodologies:	 Agile, Scrum, TDD, Continuous Integration, Design patterns, Object-oriented programming, Unit testing
+*	Frontend:	       JavaScript, TypeScript, Blazor, Angular, JQuery, CSS3, HTML5 
+*	Methodologies:	 Agile, Scrum, TDD, Continuous Integration, Design patterns, Object-oriented programming
 *	Version Control: Git, TFS, ADO
 *	Cloud computing: Azure, AWS
 *	Orchestration:   Docker, Service Fabric
