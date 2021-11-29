@@ -6,7 +6,7 @@
 
 - 👨‍💻 Currently working on web development technologies .NET Core, Angular, TS, PS, Azure
 - 🚧 Current topic I am practicing: [Microservice Architecture](https://github.com/BoskoD/AspNetMicroservices)  
-- 📚 Learning everything about Frontend, Backend, Deployment, Cloud.
+- 📚 Learning everything about Frontend, Backend, Deployment, Cloud
 
 ---
 
