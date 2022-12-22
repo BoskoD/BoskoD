@@ -4,6 +4,8 @@
 
 ### I'm Bosko Danilovic, a Software Engineer from Belgrade. 🇷🇸
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
 - 👨‍💻 Currently working on web development technologies .NET Core, Angular, TS, PS, Azure
 - 🚧 Current topic I am practicing: [Microservice Architecture](https://github.com/BoskoD/AspNetMicroservices)  
 - 📚 Learning everything about Frontend, Backend, Deployment, Cloud
@@ -41,10 +43,23 @@
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="48" height="48"/> </a> 
 <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="48" height="48"/> </a> </p>
 
-
-
 ---
 
+<details>
+<summary>Microsoft Certifications - Associate</summary>
+<a target="_blank" href="https://www.credly.com/badges/d74042a2-1bee-494c-9921-97e6cffb5983"><img  
+src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a> 
+</details>
+
+<details>
+<summary>Azure Data Explorer</summary>
+<a target="_blank" href="https://www.credly.com/badges/0c9d2339-b4b7-4fdd-9b8c-637d72d86a03">
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/000-kusto-detective-agency-onboarding.png" width="100"></a>
+
+<a target="_blank" href="https://www.credly.com/badges/262c8cfb-9ce4-40d4-9d43-3bea28d772b5">
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1.png" width="100"></a>
+
+</details>
 
 
 ### Profile Summary
