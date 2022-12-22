@@ -46,19 +46,42 @@
 ---
 
 <details>
+<summary>Microsoft Certifications - Fundamentals</summary>
+<a target="_blank" href="https://www.credly.com/badges/6e96efe3-0aee-4034-ae02-a425961c29d1">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/azurefund.png" width="100"></a> 
+  
+ <a target="_blank" href="https://www.credly.com/badges/1c07470d-2074-41f2-9532-2db1128d23a1">
+ <img src="https://github.com/BoskoD/BoskoD/blob/main/azuredatafund.png" width="100"></a>   
+</details>
+
+<details>
 <summary>Microsoft Certifications - Associate</summary>
 <a target="_blank" href="https://www.credly.com/badges/d74042a2-1bee-494c-9921-97e6cffb5983"><img  
-src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a> 
+src="https://github.com/BoskoD/BoskoD/blob/main/associatedev.png" width="100"></a> 
 </details>
 
 <details>
 <summary>Azure Data Explorer</summary>
 <a target="_blank" href="https://www.credly.com/badges/0c9d2339-b4b7-4fdd-9b8c-637d72d86a03">
-<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/000-kusto-detective-agency-onboarding.png" width="100"></a>
+<img src="https://github.com/BoskoD/BoskoD/blob/main/caseintro.png" width="100"></a>
 
 <a target="_blank" href="https://www.credly.com/badges/262c8cfb-9ce4-40d4-9d43-3bea28d772b5">
-<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1.png" width="100"></a>
-
+<img src="https://github.com/BoskoD/BoskoD/blob/main/case1.png" width="100"></a>
+  
+  <a target="_blank" href="https://www.credly.com/badges/72da81cb-8a5c-4387-b8ab-e32aab1334fc">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/case2.png" width="100"></a>
+  
+  <a target="_blank" href="https://www.credly.com/badges/cedf47cc-7869-4fd7-a6af-9871e8c3e483">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/case3.png" width="100"></a>
+  
+  <a target="_blank" href="https://www.credly.com/badges/665d1cff-4218-4262-968f-ba715a54cdd5">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/case4.png" width="100"></a>
+  
+  <a target="_blank" href="https://www.credly.com/badges/94dbc505-edc3-40e5-9590-4b7bda9477f3">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/case5.png" width="100"></a>
+  
+  <a target="_blank" href="https://www.credly.com/badges/070caea6-3041-47bc-815d-58b616ed0398">
+<img src="https://github.com/BoskoD/BoskoD/blob/main/casecomplete.png" width="100"></a>
 </details>
 
 
