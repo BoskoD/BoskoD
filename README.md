@@ -98,3 +98,5 @@ src="https://github.com/BoskoD/BoskoD/blob/main/associatedev.png" width="100"></
 *	Tools:           Visual Studio, SQL Server, Visual Studio Code, GitHub, MSOffice365 Suite, PowerBI, Powershell, Photoshop.
 *	Effective in communication, with excellent relationship building and interpersonal skills.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boskodanilovic10/)
