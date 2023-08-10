@@ -98,9 +98,6 @@ src="https://github.com/BoskoD/BoskoD/blob/main/associatedev.png" width="100"></
 *	Tools:           Visual Studio, SQL Server, Visual Studio Code, GitHub, MSOffice365 Suite, PowerBI, Powershell, Photoshop.
 *	Effective in communication, with excellent relationship building and interpersonal skills.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boskod&show_icons=true&locale=en&layout=compact" alt="boskod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boskod&show_icons=true&locale=en" alt="boskod" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=boskod&" alt="boskod" /></p>
 
