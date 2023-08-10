@@ -99,7 +99,7 @@ src="https://github.com/BoskoD/BoskoD/blob/main/associatedev.png" width="100"></
 *	Effective in communication, with excellent relationship building and interpersonal skills.
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=boskod&" alt="boskod" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=boskod&" alt="boskod" /></p></br>
 
 
 ## 🔗 Links
